@@ -8,7 +8,7 @@ function fnadd(param1, param2) {
 
 fnadd(1, 2);
 fnadd(1, 4);
-fnadd("HEMANTH", "KUMAR");
+fnadd("Manasa", "Chinnu");
 
 {
     var a=10;
